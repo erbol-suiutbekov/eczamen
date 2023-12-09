@@ -1,0 +1,444 @@
+@media (max-width: 1200px) {
+}
+@media (max-width: 1024px) {
+  #header {
+    background: #ffffff;
+    padding: 10px 0;
+    position: fixed;
+    max-width: 100%;
+    border: 1px solid black;
+  }
+  .jacs1 img {
+    height: 500px;
+    width: 400px;
+  }
+  .bacre {
+    zoom: 80%;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .head {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+  }
+  .jakosh4 img {
+    max-width: 949px;
+  }
+
+  .head h1 {
+    color: rgba(26, 26, 26, 0.71);
+    font-size: 37px;
+    line-height: 21px;
+    max-width: 156px;
+  }
+  .head1 {
+    display: flex;
+    gap: 40px;
+  }
+  .head1 h1 {
+    color: #2a2a2a;
+    font-size: 16px;
+    max-width: 33px;
+  }
+  .head2 {
+    display: flex;
+    gap: 20px;
+  }
+  .head2 h2 {
+    color: #2a2a2a;
+    font-size: 14px;
+  }
+  .head2 h1 {
+    color: #2a2a2a;
+    font-size: 15px;
+  }
+  .head4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 650px;
+    width: 320px;
+    height: 63px;
+    flex-shrink: 0;
+    background: #fff;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+  }
+  .head5 {
+    width: 300px;
+    height: 43px;
+    flex-shrink: 0;
+    border: 1px solid #ddd;
+    background: #fff;
+  }
+
+  #hero {
+    padding-top: 140px;
+  }
+  .hero {
+    background: url(./images/hero.png) no-repeat center/cover;
+    max-width: 1024px;
+    height: 400px;
+  }
+
+  .hero h1 {
+    padding: 200px;
+  }
+}
+@media (max-width: 768px) {
+  #header {
+    background: #ffffff;
+    padding: 10px 0;
+    position: fixed;
+    max-width: 768px;
+    border: 1px solid black;
+  }
+  .head1 {
+    display: none;
+  }
+  .head4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 470px;
+    width: 260px;
+    height: 40px;
+    flex-shrink: 0;
+    background: #fff;
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.2);
+  }
+  .head5 {
+    width: 200px;
+    height: 30px;
+    flex-shrink: 0;
+    border: 1px solid #ddd;
+    background: #fff;
+  }
+  #bacr {
+    background: url(./images/bacr.png) no-repeat center/cover;
+    max-width: 1440px;
+    height: 500px;
+  }
+  .bac {
+    margin-top: 100px;
+  }
+  .bacre {
+    display: flex;
+    justify-content: center;
+    padding-top: 127px;
+  }
+
+  .bacr p {
+    color: #e4e4e4;
+    font-family: Roboto;
+    font-size: 7px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    max-width: 364px;
+    margin-top: 27px;
+  }
+  .bacr h1 {
+    color: #1a1a1a;
+    font-family: Roboto;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45.6px; /* 120% */
+    max-width: 182px;
+    margin-top: 20px;
+  }
+  .bacr h2 {
+    color: #1a1a1a;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 140% */
+    max-width: 162px;
+    margin-top: 10px;
+  }
+  .bacr h3 {
+    color: #1a1a1a;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 21px; /* 150% */
+    max-width: 132px;
+    margin-top: 15px;
+  }
+  .kkk {
+    width: 100px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #1a1a1a;
+  }
+  .bacr {
+    height: 300px;
+    width: 300px;
+  }
+  .imgg img {
+    max-width: 500px;
+    height: 300px;
+  }
+  .jacsh h2 {
+    font-size: 25px;
+    max-width: 450px;
+  }
+  .jacs img {
+    max-width: 330px;
+    height: 400px;
+  }
+  .jakosh4 img {
+    max-width: 100%;
+  }
+  .vefor1 h1 {
+    font-size: 20px;
+    max-width: 450px;
+  }
+  .vefor1 p {
+    font-size: 13px;
+  }
+  .ppp {
+    max-width: 100px;
+    height: 1px;
+  }
+}
+@media (max-width: 480px) {
+  .head2 span {
+    display: block;
+  }
+  .head1 {
+    display: none;
+  }
+  .head2 img {
+    display: none;
+  }
+  .head2 h1 {
+    display: none;
+  }
+  .head2 h2 {
+    display: none;
+  }
+  .head4 {
+    display: none;
+  }
+  #header {
+    background: #ffffff;
+    padding: 10px 0;
+    position: fixed;
+    max-width: 480px;
+    border: 1px solid black;
+  }
+  .nav-link {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .foto {
+    display: flex;
+    justify-content: center;
+  }
+  .bacre {
+    display: flex;
+    justify-content: center;
+    padding-top: 127px;
+  }
+
+  .bacr p {
+    color: #e4e4e4;
+    font-family: Roboto;
+    font-size: 9 px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    max-width: 364px;
+    margin-top: 27px;
+  }
+  .bacr h1 {
+    color: #1a1a1a;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45.6px; /* 120% */
+    max-width: 182px;
+    margin-top: 20px;
+  }
+  .bacr h2 {
+    color: #1a1a1a;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 140% */
+    max-width: 162px;
+    margin-top: 10px;
+  }
+  .bacr h3 {
+    color: #1a1a1a;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 21px; /* 150% */
+    max-width: 132px;
+    margin-top: 15px;
+  }
+  .kkk {
+    width: 100px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #1a1a1a;
+  }
+  .bacr {
+    height: 250px;
+    width: 200px;
+  }
+  .imgg img {
+    max-width: 290px;
+    height: 250px;
+  }
+  .buttone button {
+    width: 200px;
+    height: 56px;
+    border: 1px solid #1a1a1a;
+    background: #1a1a1a;
+    color: #f7f7f7;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+  }
+  .jacsh h2 {
+    font-size: 20px;
+    max-width: 380px;
+  }
+  .jacs img {
+    max-width: 180px;
+    height: 250px;
+  }
+  .jakosh4 img {
+    max-width: 100%;
+  }
+  .head h1 {
+    font-size: 20px;
+  }
+  .head img {
+    height: 20px;
+    width: 20px;
+  }
+  .footer1 h1 {
+  }
+}
+@media (max-width: 320px) {
+  #header {
+    background: #ffffff;
+    padding: 10px 0;
+    position: fixed;
+    max-width: 320px;
+    border: 1px solid black;
+  }
+  #bac {
+    background: url(./images/goret.png) no-repeat center/cover;
+    max-width: 100%;
+    height: 300px;
+    margin-top: 80px;
+  }
+  .bac h1 {
+    display: none;
+  }
+  .bac button {
+    display: none;
+  }
+  .bac p {
+    display: none;
+  }
+  .bbb {
+    display: none;
+  }
+  #bacr {
+    background: url(./images/bacr.png) no-repeat center/cover;
+    max-width: 100%;
+    height: 300px;
+  }
+  .bacre {
+    display: flex;
+    justify-content: center;
+    padding-top: 127px;
+  }
+
+  .bacr p {
+    color: #e4e4e4;
+    font-family: Roboto;
+    font-size: 9px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    max-width: 364px;
+    margin-top: 2px;
+  }
+  .bacr h1 {
+    color: #1a1a1a;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45.6px; /* 120% */
+    max-width: 182px;
+    margin-top: 20px;
+  }
+  .bacr h2 {
+    color: #1a1a1a;
+    font-family: Roboto;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px; /* 140% */
+    max-width: 162px;
+    margin-top: 1px;
+  }
+  .bacr h3 {
+    color: #1a1a1a;
+    font-size: 5px;
+    font-weight: 400;
+    line-height: 21px; /* 150% */
+    max-width: 132px;
+    margin-top: 1px;
+  }
+  .kkk {
+    width: 50px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #1a1a1a;
+  }
+  .bacr {
+    height: 150px;
+    width: 150 px;
+  }
+  .imgg img {
+    max-width: 100%;
+    height: 150px;
+  }
+  .jacs img {
+    max-width: 110px;
+    height: 150px;
+  }
+  .jacs h1 {
+    font-size: 8px;
+  }
+  .barsa2 {
+    display: none;
+  }
+  .ja {
+    height: 1px;
+    max-width: 50px;
+  }
+  .footer1 {
+    display: none;
+  }
+}
