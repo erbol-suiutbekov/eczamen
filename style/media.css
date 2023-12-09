@@ -330,7 +330,15 @@
     height: 20px;
     width: 20px;
   }
-  .footer1 h1 {
+  .barsa2 {
+    display: none;
+  }
+  .bacr {
+    display: none;
+  }
+
+  .footer1 {
+    display: none;
   }
 }
 @media (max-width: 320px) {
